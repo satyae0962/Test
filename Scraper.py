@@ -77,3 +77,4 @@ if __name__ == "__main__":
     no_threads()
     datapackage_scrape()
     oil_price_api()
+    print("Latest update to new branch")
